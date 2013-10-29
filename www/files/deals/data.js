@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"deals.html",
-  "generationDate":new Date(1383012696897.88),
+  "generationDate":new Date(1383014537889.18),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -81,7 +81,7 @@
               "height":5000}},
           "adaptiveStyles":{
 },
-          "scrollbars":"verticalAsNeeded",
+          "scrollbars":"none",
           "fitToContent":false,
           "propagate":false,
           "diagrams":[{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"product_faqs_landing.html",
-  "generationDate":new Date(1383012699750.04),
+  "generationDate":new Date(1383014540488.33),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -81,7 +81,7 @@
               "height":808}},
           "adaptiveStyles":{
 },
-          "scrollbars":"verticalAsNeeded",
+          "scrollbars":"none",
           "fitToContent":false,
           "propagate":false,
           "diagrams":[{

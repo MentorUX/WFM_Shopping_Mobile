@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"blog-_detail.html",
-  "generationDate":new Date(1383012700503.08),
+  "generationDate":new Date(1383014541267.37),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -81,7 +81,7 @@
               "height":716}},
           "adaptiveStyles":{
 },
-          "scrollbars":"verticalAsNeeded",
+          "scrollbars":"none",
           "fitToContent":false,
           "propagate":false,
           "diagrams":[{

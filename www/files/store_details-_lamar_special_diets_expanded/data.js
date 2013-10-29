@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"store_details-_lamar_special_diets_expanded.html",
-  "generationDate":new Date(1383012692622.63),
+  "generationDate":new Date(1383014533448.92),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -62,7 +62,7 @@
               "height":5000}},
           "adaptiveStyles":{
 },
-          "scrollbars":"verticalAsNeeded",
+          "scrollbars":"none",
           "fitToContent":false,
           "propagate":false,
           "diagrams":[{

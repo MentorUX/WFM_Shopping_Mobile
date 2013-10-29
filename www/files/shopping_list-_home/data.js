@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"shopping_list-_home.html",
-  "generationDate":new Date(1383012697435.91),
+  "generationDate":new Date(1383014538372.2),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -81,7 +81,7 @@
               "height":790}},
           "adaptiveStyles":{
 },
-          "scrollbars":"verticalAsNeeded",
+          "scrollbars":"none",
           "fitToContent":false,
           "propagate":false,
           "diagrams":[{

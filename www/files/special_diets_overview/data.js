@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"special_diets_overview.html",
-  "generationDate":new Date(1383012698315.96),
+  "generationDate":new Date(1383014539261.26),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -81,7 +81,7 @@
               "height":651}},
           "adaptiveStyles":{
 },
-          "scrollbars":"verticalAsNeeded",
+          "scrollbars":"none",
           "fitToContent":false,
           "propagate":false,
           "diagrams":[{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"our_apps.html",
-  "generationDate":new Date(1383012701991.17),
+  "generationDate":new Date(1383014542650.45),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -81,7 +81,7 @@
               "height":1024}},
           "adaptiveStyles":{
 },
-          "scrollbars":"verticalAsNeeded",
+          "scrollbars":"none",
           "fitToContent":false,
           "propagate":false,
           "diagrams":[{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"gluten_free.html",
-  "generationDate":new Date(1383012698727.98),
+  "generationDate":new Date(1383014539626.28),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -81,7 +81,7 @@
               "height":1030}},
           "adaptiveStyles":{
 },
-          "scrollbars":"verticalAsNeeded",
+          "scrollbars":"none",
           "fitToContent":false,
           "propagate":false,
           "diagrams":[{

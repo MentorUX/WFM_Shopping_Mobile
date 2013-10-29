@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"recipe_detail.html",
-  "generationDate":new Date(1383012695969.83),
+  "generationDate":new Date(1383014536946.12),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -81,7 +81,7 @@
               "height":804}},
           "adaptiveStyles":{
 },
-          "scrollbars":"verticalAsNeeded",
+          "scrollbars":"none",
           "fitToContent":false,
           "propagate":false,
           "diagrams":[{

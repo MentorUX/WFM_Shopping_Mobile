@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"online_ordering-_no_store_selected.html",
-  "generationDate":new Date(1383012702596.2),
+  "generationDate":new Date(1383014543182.48),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -41,7 +41,7 @@
               "height":524}},
           "adaptiveStyles":{
 },
-          "scrollbars":"verticalAsNeeded",
+          "scrollbars":"none",
           "fitToContent":false,
           "propagate":false,
           "diagrams":[{

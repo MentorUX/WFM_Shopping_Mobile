@@ -22,10 +22,10 @@
   top:0px;
   width:321px;
   height:3001px;
-  overflow:auto;
-  -webkit-overflow-scrolling:touch;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
 }
 #u1 {
   position:absolute;
