@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"shopping_list-_this_week_s_list.html",
-  "generationDate":new Date(1382992448812.69),
+  "generationDate":new Date(1383012697881.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

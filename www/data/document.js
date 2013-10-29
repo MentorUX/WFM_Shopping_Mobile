@@ -14,10 +14,6 @@
     "loadFeedbackPlugin":false},
   "sitemap":{
     "rootNodes":[{
-        "pageName":"iPhone Frame for Desktop View",
-        "type":"Wireframe",
-        "url":"iphone_frame_for_desktop_view.html"},
-{
         "pageName":"Home- Select A Store",
         "type":"Wireframe",
         "url":"home-_select_a_store.html",
@@ -108,11 +104,15 @@
 {
             "pageName":"Online Ordering- No Store Selected",
             "type":"Wireframe",
-            "url":"online_ordering-_no_store_selected.html"}]}]},
+            "url":"online_ordering-_no_store_selected.html"}]},
+{
+        "pageName":"iPhone Frame for Desktop View",
+        "type":"Wireframe",
+        "url":"iphone_frame_for_desktop_view.html"}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{
-    "name":null,
+    "name":"",
     "size":{
       "width":0,
       "height":0},

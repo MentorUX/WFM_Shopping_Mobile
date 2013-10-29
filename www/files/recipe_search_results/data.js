@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"recipe_search_results.html",
-  "generationDate":new Date(1382992445742.51),
+  "generationDate":new Date(1383012695331.79),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

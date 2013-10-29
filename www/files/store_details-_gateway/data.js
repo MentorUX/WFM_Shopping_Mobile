@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"store_details-_gateway.html",
-  "generationDate":new Date(1382992443807.4),
+  "generationDate":new Date(1383012693585.69),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

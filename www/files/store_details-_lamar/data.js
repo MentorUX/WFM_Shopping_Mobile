@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"store_details-_lamar.html",
-  "generationDate":new Date(1382992441477.27),
+  "generationDate":new Date(1383012691537.57),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
