@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"gluten_free.html",
-  "generationDate":new Date(1383014539626.28),
+  "generationDate":new Date(1383057012998.08),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1565,7 +1565,7 @@
                 "x":0,
                 "y":72},
               "size":{
-                "width":60,
+                "width":61,
                 "height":28},
               "borderFill":{
                 "fillType":"solid",
@@ -1603,7 +1603,7 @@
                     "x":0,
                     "y":72},
                   "size":{
-                    "width":60,
+                    "width":61,
                     "height":28},
                   "borderFill":{
                     "fillType":"solid",
@@ -1654,7 +1654,7 @@
                 "x":61,
                 "y":72},
               "size":{
-                "width":69,
+                "width":68,
                 "height":28},
               "borderFill":{
                 "fillType":"solid",
@@ -1692,7 +1692,7 @@
                     "x":61,
                     "y":72},
                   "size":{
-                    "width":69,
+                    "width":68,
                     "height":28},
                   "borderFill":{
                     "fillType":"solid",
@@ -1744,10 +1744,10 @@
                 "fillType":"solid",
                 "color":0xFF333333},
               "location":{
-                "x":130,
+                "x":129,
                 "y":72},
               "size":{
-                "width":65,
+                "width":67,
                 "height":28},
               "borderFill":{
                 "fillType":"solid",
@@ -1782,10 +1782,10 @@
                     "fillType":"solid",
                     "color":0xFF333333},
                   "location":{
-                    "x":130,
+                    "x":129,
                     "y":72},
                   "size":{
-                    "width":65,
+                    "width":67,
                     "height":28},
                   "borderFill":{
                     "fillType":"solid",
@@ -1842,7 +1842,7 @@
                 "x":196,
                 "y":72},
               "size":{
-                "width":65,
+                "width":64,
                 "height":28},
               "borderFill":{
                 "fillType":"solid",
@@ -1882,7 +1882,7 @@
                     "x":196,
                     "y":72},
                   "size":{
-                    "width":65,
+                    "width":64,
                     "height":28},
                   "borderFill":{
                     "fillType":"solid",
@@ -1905,8 +1905,8 @@
                         "linkType":"current"}]}]}},
             "tabbable":true,
             "images":{
-              "normal~":"images/home-_select_a_store/deals_u16.png",
-              "selected~":"images/home-_select_a_store/deals_u16_selected.png"}},
+              "normal~":"images/home-_select_a_store/shopping_list_u18.png",
+              "selected~":"images/home-_select_a_store/shopping_list_u18_selected.png"}},
 {
             "id":"b124e119dafa457f88bc43775db49c3b",
             "label":"More/Less",
@@ -2028,8 +2028,8 @@
                                 "raisedEvents":["e139f3f852cb42e8ac1596fbc09bcc33"]}]}]}},
                     "tabbable":true,
                     "images":{
-                      "normal~":"images/home-_select_a_store/home_u12.png",
-                      "selected~":"images/home-_select_a_store/home_u12_selected.png"}},
+                      "normal~":"images/home-_select_a_store/more_u21.png",
+                      "selected~":"images/home-_select_a_store/more_u21_selected.png"}},
 {
                     "id":"b29f97cec9a5432c9b31514d114de627",
                     "label":"",
@@ -2183,7 +2183,7 @@
                                 "raisedEvents":["623d225b5686428e83b9d169c0e7c28b"]}]}]}},
                     "tabbable":true,
                     "images":{
-                      "normal~":"images/home-_select_a_store/home_u12_selected.png"}},
+                      "normal~":"images/home-_select_a_store/more_u21_selected.png"}},
 {
                     "id":"e370ac92a0f647448112dd0a0a1899a4",
                     "label":"",
@@ -2316,7 +2316,7 @@
             "visible":true,
             "style":{
               "location":{
-                "x":125,
+                "x":124,
                 "y":74},
               "size":{
                 "width":10,
@@ -2360,7 +2360,7 @@
             "visible":true,
             "style":{
               "location":{
-                "x":256,
+                "x":255,
                 "y":74},
               "size":{
                 "width":10,
